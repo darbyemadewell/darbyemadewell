@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning agile leadership and accessible web development 
 
-📫 You can reach me at darbyemadewell@gmail.com
+⌨️ Programming in C/C++, Python, Ruby, Javascript, and SystemVerilog
 
 <!---
 darbyemadewell/darbyemadewell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
