@@ -2,18 +2,15 @@
 
 🎓 Pursuing a Master of Science in Computer Engineering at NC State University
 
-👀 Interested in accessibility, the arts, and technology policy
+👀 Interested in digital accessibility, the arts, and technology policy
 
-🌱 Learning accessible web development and hardware security
+🌱 Learning compiler optimization and scheduling and data parallel processors
 
 
 🎨 Recent Projects
-- Delivered two groundbreaking phonics instructional tools by collaborating with machine learning engineers, software engineers, subject matter experts, and product managers.
-  - [Find a Decodable Book](https://hub.lexile.com/find-a-decodable-book)
-  - [Decodable Passages](https://hub.lexile.com/find-a-decodable-book)
-- Improved the responsiveness and accessibility of [MetaMetrics' most popular tool](https://hub.lexile.com/find-a-book/search) by 11% by quickly specializing in web accessibility and providing training to developers and product owners.
-- Designed the logo and [portfolio website](https://nrcrews.wixsite.com/portfolio) for Nia Crews, Multidisciplinary Artist.
-- Designed a logo, social media assets, and [website](https://www.laetum.org/) for Laetum, an organization dedicated to uplifting queer and BIPOC communities.
+- Created a simple implementation of [Galaxian](https://darbyemadewell.github.io/galaxian/) using WebGL for NC State's CSC 561: Introduction to Computer Graphics.
+- Advised developers and product managers and acted as a subject matter expert on web accessibility to develop MetaMetrics's first WCAG 2.1 AA-compliant website, the new [Lexile and Quantile Hub](https://hub.lexile.com)
+- Delivered a new, groundbreaking RESTful API written in Django and [related UI](https://hub.lexile.com/find-a-decodable-book) written in React by collaborating with machine learning engineers, software engineers, product managers, and subject matter experts.
 
 
 🖥️ Toolkit
