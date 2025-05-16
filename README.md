@@ -1,10 +1,10 @@
 👋 Hi, I’m @darbyemadewell! I'm a designer, engineer, and manager 🎉
 
-🎓 Pursuing a Master of Science in Computer Engineering at NC State University
+🎓 Just received my Master of Science in Computer Engineering from NC State University 🎉
 
-👀 Interested in digital accessibility, the arts, and technology policy
+👀 Interested in digital accessibility, the arts, and computer architecture
 
-🌱 Learning compiler optimization and scheduling and data parallel processors
+🌱 Learning TypeScript
 
 
 🎨 Recent Projects
